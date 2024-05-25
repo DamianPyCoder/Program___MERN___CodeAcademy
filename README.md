@@ -61,16 +61,7 @@ In the blog section, there are posts with and without dates.
 ## 3. Backend.
 Additionally, there's a server-side admin panel where new users can be created. Users registering via the client's form need validation here as they're initially created as inactive users. An administrator must activate the account for users to log in.
 
-<p align="center">
-  <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm1.png">
-    <img width="280" height="180" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm1.png">
-  </a>
-  <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm2.png">
-    <img width="300" height="230" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm2.png">
-  </a>
-</p>
-
-
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdminBlog2.png)
 
 The admin panel features a left-side menu with options for users, menu, courses, and blog.
 
@@ -82,6 +73,17 @@ In the courses section, administrators can create new courses, edit, or delete e
 
 Lastly, in the blog section, administrators can view, edit, create, and delete posts using an integrated text editor
 
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm3.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm6.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm7.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm8.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm9.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm10.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm11.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm12.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm13.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm14.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm16.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
