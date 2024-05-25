@@ -161,5 +161,8 @@ By following these steps, you should be able to run your MERN stack project in V
 
 
 ## 6. Images and Videos.
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/0.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/2.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/3.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
