@@ -72,18 +72,19 @@ In the users section, administrators can view and manage active and inactive use
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm7.png)
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm8.png)  
 
-In the menu section, menus can be activated or deactivated, and new ones can be created.
-
-In the courses section, administrators can create new courses, edit, or delete existing ones. Using the ID, courses from Udemy can be added. All information such as name, price, etc., can be modified.
-
-Lastly, in the blog section, administrators can view, edit, create, and delete posts using an integrated text editor
+In the menu section, menus can be activated or deactivated, and new ones can be created.  
 
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm9.png)
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm10.png)
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm11.png)
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm12.png)
+
+In the courses section, administrators can create new courses, edit, or delete existing ones. Using the ID, courses from Udemy can be added. All information such as name, price, etc., can be modified.  
+
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm13.png)
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm14.png)
+
+Lastly, in the blog section, administrators can view, edit, create, and delete posts using an integrated text editor.  
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm16.png)
 
 
