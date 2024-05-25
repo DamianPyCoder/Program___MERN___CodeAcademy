@@ -158,7 +158,7 @@ Source of the icon: [Circlon tech](https://www.flaticon.es/icono-gratis/programa
 
 ### 5.2 Color palette.
 
-
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/paleta.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
