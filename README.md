@@ -191,19 +191,42 @@ Source of the icon: [Circlon tech](https://www.flaticon.es/icono-gratis/programa
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## 5. Client.  
+On the client's Home page, there's a banner and various courses displayed. Users can scroll down through the Home page to obtain more information, such as study methodology or how to ask questions to instructors. In the footer, there's a newsletter subscription option; the submitted email addresses are registered and stored in our MongoDB database.
 
-## 5. Server.
+For database viewing, we utilize MongoDB's Robot, where we can observe how user emails are registered.
 
+The Home page's top menu includes options for courses and a blog. Upon entering the courses section, users can access numerous courses dynamically added via the course ID from an online course portal called Udemy. We connect to Udemy's API to fetch course data and display it on the page.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+In the blog section, there are posts with and without dates.
 
-
-
-
-
-## 6. Client.
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/0.png)
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/2.png)
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/3.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 6. Server.
+Additionally, there's a server-side admin panel where new users can be created. Users registering via the client's form need validation here as they're initially created as inactive users. An administrator must activate the account for users to log in.
+
+The admin panel features a left-side menu with options for users, menu, courses, and blog.
+
+In the users section, administrators can view and manage active and inactive users, change their status, edit, delete, or create new ones. Any action such as deletion or editing triggers a pop-up message notification.
+
+In the menu section, menus can be activated or deactivated, and new ones can be created.
+
+In the courses section, administrators can create new courses, edit, or delete existing ones. Using the ID, courses from Udemy can be added. All information such as name, price, etc., can be modified.
+
+Lastly, in the blog section, administrators can view, edit, create, and delete posts using an integrated text editor
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+
