@@ -113,6 +113,7 @@ Advantages of Using TinyMCE:
 </p>  
 TinyMCE is a versatile and powerful solution for rich text editing in web applications. Its customization capabilities, along with an intuitive user interface, make it ideal for developers looking to provide a word processor-like editing experience in their web applications. 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>  
 
 
 ## 5. How to Download the Repository / Install the APK.
