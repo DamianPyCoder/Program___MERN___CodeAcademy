@@ -30,6 +30,15 @@ On the client's Home page, there's a banner and various courses displayed. Users
 
 For database viewing, we utilize MongoDB's Robot, where we can observe how user emails are registered.
 
+<p align="center">
+  <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/email.png">
+    <img width="300" height="500" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/email.png" title="email" alt="email">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/newsletterRoboMongoDb.png">
+    <img width="400" height="600" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/newsletterRoboMongoDb.png" title="newslet" alt="newslet">
+  </a>
+</p>
+
 The Home page's top menu includes options for courses and a blog. Upon entering the courses section, users can access numerous courses dynamically added via the course ID from an online course portal called Udemy. We connect to Udemy's API to fetch course data and display it on the page.
 
 In the blog section, there are posts with and without dates.
