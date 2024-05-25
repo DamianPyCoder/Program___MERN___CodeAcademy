@@ -99,10 +99,9 @@ TinyMCE is a rich text editor based on JavaScript that integrates easily into we
 
 Advantages of Using TinyMCE:  
 - Ease of Use: Users can edit content without needing to know HTML.  
--   Flexibility: It can be customized and extended to meet specific needs.  
--     Productivity: Provides robust editing tools that enhance efficiency in content creation.  
-
-TinyMCE is a versatile and powerful solution for rich text editing in web applications. Its customization capabilities, along with an intuitive user interface, make it ideal for developers looking to provide a word processor-like editing experience in their web applications.  
+- Flexibility: It can be customized and extended to meet specific needs.  
+- Productivity: Provides robust editing tools that enhance efficiency in content creation.  
+ 
 
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce.png">
@@ -111,7 +110,8 @@ TinyMCE is a versatile and powerful solution for rich text editing in web applic
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce2.png">
     <img width="420" height="300" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce2.png" title="tiny2" alt="tiny2">
   </a>
-</p>
+</p>  
+TinyMCE is a versatile and powerful solution for rich text editing in web applications. Its customization capabilities, along with an intuitive user interface, make it ideal for developers looking to provide a word processor-like editing experience in their web applications. 
 
 
 
