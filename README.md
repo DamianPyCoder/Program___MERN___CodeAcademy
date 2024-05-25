@@ -91,7 +91,6 @@ Source of the icon: [Circlon tech](https://www.flaticon.es/icono-gratis/programa
 ### 4.2 Color palette.
 
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/paleta.png)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### 4.3 TinyMCE
@@ -105,10 +104,10 @@ Advantages of Using TinyMCE:
 
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce.png">
-    <img width="420" height="300" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce.png" title="tiny" alt="tiny">
+    <img width="320" height="200" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce.png" title="tiny" alt="tiny">
   </a>
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce2.png">
-    <img width="420" height="300" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce2.png" title="tiny2" alt="tiny2">
+    <img width="320" height="200" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce2.png" title="tiny2" alt="tiny2">
   </a>
 </p>  
 TinyMCE is a versatile and powerful solution for rich text editing in web applications. Its customization capabilities, along with an intuitive user interface, make it ideal for developers looking to provide a word processor-like editing experience in their web applications. 
