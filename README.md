@@ -104,10 +104,10 @@ Advantages of Using TinyMCE:
 
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce.png">
-    <img width="320" height="200" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce.png" title="tiny" alt="tiny">
+    <img width="340" height="220" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce.png" title="tiny" alt="tiny">
   </a>
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce2.png">
-    <img width="320" height="200" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce2.png" title="tiny2" alt="tiny2">
+    <img width="340" height="220" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce2.png" title="tiny2" alt="tiny2">
   </a>
 </p>  
 TinyMCE is a versatile and powerful solution for rich text editing in web applications. Its customization capabilities, along with an intuitive user interface, make it ideal for developers looking to provide a word processor-like editing experience in their web applications. 
