@@ -61,11 +61,14 @@ In the blog section, there are posts with and without dates.
 ## 3. Backend.
 Additionally, there's a server-side admin panel where new users can be created. Users registering via the client's form need validation here as they're initially created as inactive users. An administrator must activate the account for users to log in.
 
-![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdminBlog2.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdminBlog2.png)  
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm3.png)
 
 The admin panel features a left-side menu with options for users, menu, courses, and blog.
 
 In the users section, administrators can view and manage active and inactive users, change their status, edit, delete, or create new ones. Any action such as deletion or editing triggers a pop-up message notification.
+
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm6.png)
 
 In the menu section, menus can be activated or deactivated, and new ones can be created.
 
@@ -73,8 +76,6 @@ In the courses section, administrators can create new courses, edit, or delete e
 
 Lastly, in the blog section, administrators can view, edit, create, and delete posts using an integrated text editor
 
-![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm3.png)
-![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm6.png)
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm7.png)
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm8.png)
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm9.png)
