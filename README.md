@@ -1,6 +1,32 @@
 <a name="readme-top"></a>
 
-#  
+#  DAMI<b>ACADEMY</b>
+
+Complete web application for an online computer courses school, featuring a client where users can register. At the top of the client, we have links to social media and a menu that can be edited from the server's admin panel. 
+
+On the client's Home page, there's a banner and various courses displayed. Users can scroll down through the Home page to obtain more information, such as study methodology or how to ask questions to instructors. In the footer, there's a newsletter subscription option; the submitted email addresses are registered and stored in our MongoDB database. 
+
+For database viewing, we utilize MongoDB's Robot, where we can observe how user emails are registered. 
+
+The Home page's top menu includes options for courses and a blog. Upon entering the courses section, users can access numerous courses dynamically added via the course ID from an online course portal called Udemy. We connect to Udemy's API to fetch course data and display it on the page. 
+
+In the blog section, there are posts with and without dates. 
+
+Additionally, there's a server-side admin panel where new users can be created. Users registering via the client's form need validation here as they're initially created as inactive users. An administrator must activate the account for users to log in. 
+
+The admin panel features a left-side menu with options for users, menu, courses, and blog. 
+
+In the users section, administrators can view and manage active and inactive users, change their status, edit, delete, or create new ones. Any action such as deletion or editing triggers a pop-up message notification. 
+
+In the menu section, menus can be activated or deactivated, and new ones can be created. 
+
+In the courses section, administrators can create new courses, edit, or delete existing ones. Using the ID, courses from Udemy can be added. All information such as name, price, etc., can be modified. 
+
+Lastly, in the blog section, administrators can view, edit, create, and delete posts using an integrated text editor.
+
+
+
+
 ## 1. Description.
 
 
