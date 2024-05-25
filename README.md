@@ -151,8 +151,8 @@ By following these steps, you should be able to run your MERN stack project in V
 ### 5.1 Icons.
 
 
-<img src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/icono.png" width="50"> 
-<img src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/iconoGreen.png" width="50"> 
+<img src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/icono.png" width="50"> <img src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/iconoGreen.png" width="50">   
+
 Source of the icon: [Circlon tech](https://www.flaticon.es/icono-gratis/programacion-web_7970086?term=programacion&page=4&position=13&origin=search&related_id=7970086)  
 
 
