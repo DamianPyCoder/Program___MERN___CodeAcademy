@@ -29,6 +29,7 @@ On the client's Home page, there's a banner and various courses displayed. Users
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/3.png)
 
 For database viewing, we utilize MongoDB's Robot, where we can observe how user emails are registered.
+Robot 3T is a powerful tool for managing and working with MongoDB databases, providing a more user-friendly and efficient experience than the command line. If you work with MongoDB, Robot 3T can simplify many common tasks and help you be more productive.
 
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/email.png">
