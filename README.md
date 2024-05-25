@@ -94,6 +94,25 @@ Source of the icon: [Circlon tech](https://www.flaticon.es/icono-gratis/programa
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+### 4.3 TinyMCE
+TinyMCE is a rich text editor based on JavaScript that integrates easily into web applications, allowing users to edit content in a manner similar to using a word processor like Microsoft Word. It provides a comprehensive user interface with tools and options for formatting text, inserting images, videos, links, and other multimedia elements.  
+
+Advantages of Using TinyMCE:  
+- Ease of Use: Users can edit content without needing to know HTML.  
+-   Flexibility: It can be customized and extended to meet specific needs.  
+-     Productivity: Provides robust editing tools that enhance efficiency in content creation.  
+
+TinyMCE is a versatile and powerful solution for rich text editing in web applications. Its customization capabilities, along with an intuitive user interface, make it ideal for developers looking to provide a word processor-like editing experience in their web applications.  
+
+<p align="center">
+  <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce.png">
+    <img width="400" height="210" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce.png" title="tiny" alt="tiny">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce2.png">
+    <img width="400" height="210" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce2.png" title="tiny2" alt="tiny2">
+  </a>
+</p>
+
 
 
 ## 5. How to Download the Repository / Install the APK.
