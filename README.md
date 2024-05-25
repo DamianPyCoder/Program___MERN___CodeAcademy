@@ -2,6 +2,9 @@
 
 #  DAMI<b>ACADEMY</b>
 
+
+
+## 1. Description.
 Complete web application for an online computer courses school, featuring a client where users can register. At the top of the client, we have links to social media and a menu that can be edited from the server's admin panel. 
 
 On the client's Home page, there's a banner and various courses displayed. Users can scroll down through the Home page to obtain more information, such as study methodology or how to ask questions to instructors. In the footer, there's a newsletter subscription option; the submitted email addresses are registered and stored in our MongoDB database. 
@@ -27,7 +30,6 @@ Lastly, in the blog section, administrators can view, edit, create, and delete p
 
 
 
-## 1. Description.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
