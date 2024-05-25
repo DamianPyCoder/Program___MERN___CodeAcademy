@@ -106,10 +106,10 @@ TinyMCE is a versatile and powerful solution for rich text editing in web applic
 
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce.png">
-    <img width="400" height="210" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce.png" title="tiny" alt="tiny">
+    <img width="400" height="300" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce.png" title="tiny" alt="tiny">
   </a>
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce2.png">
-    <img width="400" height="210" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce2.png" title="tiny2" alt="tiny2">
+    <img width="400" height="300" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/tinymce2.png" title="tiny2" alt="tiny2">
   </a>
 </p>
 
