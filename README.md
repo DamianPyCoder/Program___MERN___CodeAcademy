@@ -35,10 +35,10 @@ The Home page's top menu includes options for courses and a blog. Upon entering 
 In the blog section, there are posts with and without dates.
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/blog.png">
-    <img width="400" height="200" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/blog.png" title="blog1" alt="blog1">
+    <img width="400" height="210" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/blog.png" title="blog1" alt="blog1">
   </a>
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/blogEjemplo.png">
-    <img width="400" height="300" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/blogEjemplo.png" title="blog2" alt="blog2">
+    <img width="400" height="210" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/blogEjemplo.png" title="blog2" alt="blog2">
   </a>
 </p>
 
