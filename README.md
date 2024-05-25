@@ -19,7 +19,7 @@ Other tools I have utilized during the application development include Visual St
 
 
 
-## 2. Client.  
+## 2. Frontend.  
 Complete web application for an online computer courses school, featuring a client where users can register. At the top of the client, we have links to social media and a menu that can be edited from the server's admin panel. 
 
 On the client's Home page, there's a banner and various courses displayed. Users can scroll down through the Home page to obtain more information, such as study methodology or how to ask questions to instructors. In the footer, there's a newsletter subscription option; the submitted email addresses are registered and stored in our MongoDB database.
@@ -58,8 +58,19 @@ In the blog section, there are posts with and without dates.
 
 
 
-## 3. Server.
+## 3. Backend.
 Additionally, there's a server-side admin panel where new users can be created. Users registering via the client's form need validation here as they're initially created as inactive users. An administrator must activate the account for users to log in.
+
+<p align="center">
+  <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm1.png">
+    <img width="400" height="210" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm1.png">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm2.png">
+    <img width="400" height="210" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm2.png">
+  </a>
+</p>
+
+
 
 The admin panel features a left-side menu with options for users, menu, courses, and blog.
 
