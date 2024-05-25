@@ -146,13 +146,10 @@ By following these steps, you should be able to run your MERN stack project in V
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 4. Development Roadmap.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 4. Typography, Colors, Icons and Other Elements.  
 
-## 5. Typography, Colors, Icons and Other Elements.  
-
-### 5.1 Icons.
+### 4.1 Icons.
 
 
 <img src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/icono.png" width="50"> <img src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/iconoGreen.png" width="50">   
@@ -160,16 +157,23 @@ By following these steps, you should be able to run your MERN stack project in V
 Source of the icon: [Circlon tech](https://www.flaticon.es/icono-gratis/programacion-web_7970086?term=programacion&page=4&position=13&origin=search&related_id=7970086)  
 
 
-### 5.2 Color palette.
+### 4.2 Color palette.
 
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/paleta.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
+## 6. Server.
 
 
-## 6. Images and Videos.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+## 6. Client.
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/0.png)
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/2.png)
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/3.png)
