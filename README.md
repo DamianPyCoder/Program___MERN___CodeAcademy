@@ -84,7 +84,8 @@ In the courses section, administrators can create new courses, edit, or delete e
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm13.png)
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm14.png)
 
-Lastly, in the blog section, administrators can view, edit, create, and delete posts using an integrated text editor.  
+Lastly, in the blog section, administrators can view, edit, create, and delete posts using an integrated text editor.   
+
 ![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm16.png)
 
 
