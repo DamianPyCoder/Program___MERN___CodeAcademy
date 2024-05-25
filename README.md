@@ -24,15 +24,25 @@ Complete web application for an online computer courses school, featuring a clie
 
 On the client's Home page, there's a banner and various courses displayed. Users can scroll down through the Home page to obtain more information, such as study methodology or how to ask questions to instructors. In the footer, there's a newsletter subscription option; the submitted email addresses are registered and stored in our MongoDB database.
 
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/0.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/2.png)
+![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/3.png)
+
 For database viewing, we utilize MongoDB's Robot, where we can observe how user emails are registered.
 
 The Home page's top menu includes options for courses and a blog. Upon entering the courses section, users can access numerous courses dynamically added via the course ID from an online course portal called Udemy. We connect to Udemy's API to fetch course data and display it on the page.
 
 In the blog section, there are posts with and without dates.
+<p align="center">
+  <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/blog.png">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/blog.png" title="blog1" alt="blog1">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/blogEjemplo.png">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/blogEjemplo.png" title="blog2" alt="blog2">
+  </a>
+</p>
 
-![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/0.png)
-![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/2.png)
-![](https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/3.png)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
