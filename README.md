@@ -32,7 +32,7 @@ For database viewing, we utilize MongoDB's Robot, where we can observe how user 
 
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/email.png">
-    <img width="450" height="400" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/email.png" title="email" alt="email">
+    <img width="400" height="400" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/email.png" title="email" alt="email">
   </a>
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/newsletterRoboMongoDb.png">
     <img width="450" height="400" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/newsletterRoboMongoDb.png" title="newslet" alt="newslet">
