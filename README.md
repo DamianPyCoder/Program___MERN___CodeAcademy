@@ -66,7 +66,7 @@ Additionally, there's a server-side admin panel where new users can be created. 
     <img width="260" height="210" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm1.png">
   </a>
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm2.png">
-    <img width="300" height="310" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm2.png">
+    <img width="300" height="230" src="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy/blob/main/picts/panelAdm2.png">
   </a>
 </p>
 
