@@ -8,11 +8,11 @@
 
 
 ## 2. Built with MERN stack.
-<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/VSCode-Dark.svg" width="50">
-<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/MongoDB.svg" width="50">
-<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/ExpressJS-Dark.svg" width="50">
-<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/React-Dark.svg" width="50">
-<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/NodeJS-Dark.svg" width="50">
+<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/VSCode-Dark.svg" width="50">  
+<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/MongoDB.svg" width="50"> As for our database layer, we employ MongoDB.
+<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/ExpressJS-Dark.svg" width="50"> To establish the backend routing system, we leverage ExpressJS. 
+<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/React-Dark.svg" width="50"> ReactJS serves as our frontend technology, 
+<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/NodeJS-Dark.svg" width="50"> while NodeJS powers our backend operations.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
