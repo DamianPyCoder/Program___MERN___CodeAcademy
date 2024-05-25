@@ -40,7 +40,7 @@ As for our database layer, we employ MongoDB. To establish the backend routing s
 
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/MongoDB.svg" width="50">  <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/ExpressJS-Dark.svg" width="50">  <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/React-Dark.svg" width="50">  <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/NodeJS-Dark.svg" width="50">  
 
-Other tools I have utilized during the application development include Visual Studio Code.  
+Other tools I have utilized during the application development include Visual Studio Code or for example, the React dependency called TinyMCE is utilized to implement a complete text editing system for the blogs.  
 
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/VSCode-Dark.svg" width="50">  
 
