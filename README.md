@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-#  DAMI<b>ACADEMY</b>
+![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/codingschool.png)
 
 ## 1. Built with MERN stack.  
 
